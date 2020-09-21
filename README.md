@@ -15,4 +15,4 @@ description: программа для переименовния файлов �
 4. Launch:  
    ` cd renamer `  
 
-   ` python renamer.py `  
+   ` python renamer.py `
