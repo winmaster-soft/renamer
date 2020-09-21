@@ -13,5 +13,6 @@ description: программа для переименовния файлов �
 ` git clone https://github.com/winmaster-soft/renamer `  
 
 4. Launch:  
-` cd renamer `  
-` python renamer.py `  
+   ` cd renamer `  
+
+   ` python renamer.py `  
