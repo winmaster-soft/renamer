@@ -1,8 +1,8 @@
-# RENAMER
-### version: 1.3(beta)  
-### description: программа для переименовния файлов группами  
+# renamer
+version: 1.3(beta)  
+description: программа для переименовния файлов группами  
 
-# INSTALL in Android  
+### INSTALL in Android  
 
 1. [Install Termux](https://play.google.com/store/apps/details?id=com.termux)
 
